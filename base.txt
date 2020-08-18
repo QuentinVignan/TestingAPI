@@ -1,17 +1,17 @@
-# 1 test
+# 1 master
  
- mod 'test',
+ mod 'master',
         :git => 'https://google.fr',
         :ref => '1.0' 
 
- mod 'test1',
+ mod 'master1',
         :git => 'https://google1.fr',
         :ref => '1.1'
  
- mod 'test2',
+ mod 'master2',
         :git => 'https://google2.fr',
         :ref => '1.2'
 
- mod 'test3',
+ mod 'master3',
         :git => 'https://google3.fr',
         :ref => '1.3'
